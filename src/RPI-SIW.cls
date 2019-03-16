@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This template is designed to conform to the formatting standards of the 
 % Rensselaer Polytechnic Institute's Space Imaging Workshop. 
 %
@@ -9,8 +9,8 @@
 %
 % REVISION HISTORY
 %           03/15/19 - Initial creation.
-%			03/16/19 - Packaged for initial distribution.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           03/16/19 - Packaged for initial distribution.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Name the class "RPI_SIW"
 \NeedsTeXFormat{LaTeX2e}

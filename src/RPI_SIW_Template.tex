@@ -72,12 +72,10 @@ All extended abstracts should be submitted online through the webform on the wor
 
 \lipsum[3-3]
 
-\section*{References}
-References should be listed in the order in which they appear. List the DOI for each reference where it is available. We suggest the following format (you may use common journal abbreviations in cases where a DOI is provided): 
+References should be listed in the order in which they appear. List the DOI for each reference where it is available. You may use common journal abbreviations in cases where a DOI is provided: 
 
 \bibliographystyle{ieeetr}
-\renewcommand{\refname}{}
-\vspace*{-5pt}\hspace*{-10pt}
-\parbox{\linewidth}{\footnotesize \bibliography{bib}}
+\titleformat{\section}[runin]{\normalsize\bfseries}{\thesection}{0em}{} % UNCOMMENT THIS LINE
+{\footnotesize \bibliography{bib}}
 
 \end{document}

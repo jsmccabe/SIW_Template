@@ -1,12 +1,16 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This template is designed to conform to the formatting standards of the 
 % Rensselaer Polytechnic Institute's Space Imaging Workshop. 
 %
 %
-% Compilation tested 03/16/19 on MacOS 10.13.16 with LuaLaTeX.
+% Compilation tested 03/16/19 on MacOS 10.13.6 with LuaLaTeX.
 %
-% James S. McCabe -- jms.s.mccb@gmail.com
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% - James S. McCabe (jms.s.mccb@gmail.com)
+%
+% REVISION HISTORY
+%           03/15/19 - Initial creation.
+%			03/16/19 - Packaged for initial distribution.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Name the class "RPI_SIW"
 \NeedsTeXFormat{LaTeX2e}

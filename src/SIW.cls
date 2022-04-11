@@ -1,20 +1,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This template is designed to conform to the formatting standards of the 
-% Rensselaer Polytechnic Institute's Space Imaging Workshop. 
+% Space Imaging Workshop. 
 %
 %
-% Compilation tested 03/16/19 on MacOS 10.13.6 with LuaLaTeX.
+% Compilation tested 04/11/22 on MacOS 12.2.1 with LuaLaTeX.
 %
 % - James S. McCabe (jms.s.mccb@gmail.com)
 %
 % REVISION HISTORY
 %           03/15/19 - Initial creation.
 %           03/16/19 - Packaged for initial distribution.
+%           04/11/22 - Updates for 2022.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Name the class "RPI_SIW"
+% Name the class "SIW"
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{RPI-SIW}[2019/03/16]
+\ProvidesClass{SIW}[2022/04/11]
 
 % Base the class on extarticle
 \LoadClass[twocolumn,10pt]{extarticle}

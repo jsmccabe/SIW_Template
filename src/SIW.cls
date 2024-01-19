@@ -3,7 +3,7 @@
 % Space Imaging Workshop. 
 %
 %
-% Compilation tested 04/11/22 on MacOS 12.2.1 with LuaLaTeX.
+% Compilation tested 01/19/24 on MacOS 13.6.3 with LuaLaTeX.
 %
 % - James S. McCabe (jms.s.mccb@gmail.com)
 %
@@ -11,11 +11,12 @@
 %           03/15/19 - Initial creation.
 %           03/16/19 - Packaged for initial distribution.
 %           04/11/22 - Updates for 2022.
+%           01/19/24 - Updates for 2024.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Name the class "SIW"
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{SIW}[2022/04/11]
+\ProvidesClass{SIW}[2024/01/19]
 
 % Base the class on extarticle
 \LoadClass[twocolumn,10pt]{extarticle}

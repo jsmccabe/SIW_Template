@@ -12,3 +12,4 @@ For bug reports and feature requests, please submit a detailed issue.
 - MacOS High Sierra, MacTeX 2017 (03/16/19)
 - MacOS High Sierra, MacTeX 2018 (03/16/19)
 - MacOS Monterey, up-to-date MiKTeX (04/11/22)
+- MacOS Ventura, up-to-date MikTeX (01/19/24)
